@@ -1,3 +1,7 @@
+[link](https://okyazilim.com){:target="_blank"}
+
+
+
 ### Herkese Merhaba 👋
 ### Hi Everyone 👋
 
@@ -19,19 +23,17 @@ Here are some ideas to get you started:
 
 
 
-
-
 ### Ben Kimim
-- :computer:Gazi Üniversitesi Bilgisayar ve Öğretim Teknolojileri Eğitimi 4. sınıf öğrencisiyim. 
-- :computer:YetGen liderliği ve Python eğitmenliği yapmaktayım.
-- :computer:Full Stack Developer olmak için çabalıyorum. 
+- :computer:Dokuz Eylül Üniversitesi Hukuk Fakültesi 4. sınıf öğrencisiyim. 
+- :computer:YetGen Core Python liderliği ve Python eğitmenliği yapmaktayım.
+- :computer:Data Sciencist olmak için çabalıyorum. 
 - :computer:Kendimi her alanda geliştirmeye çalışıyorum. 
-- 📫 Bana ulaşmak isterseniz **gumusisikberkcan@gmail.com** adresini kullanabilirsiniz. 
+- 📫 Bana ulaşmak isterseniz **_** adresini kullanabilirsiniz. 
 
 ***:computer:	DON'T REPEAT YOURSELF(KENDİNİ TEKRAR ETME)***
 <br>
 
-***Bölümüm öğretmenlik olsada ideallerimden asla vazgeçemem.:medal_military:***
+***motivasyon ve idol yazısı***
 
 <p align="center">
   <img src= "https://gpvc.arturio.dev/berkcangumusisik" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •  
@@ -41,7 +43,7 @@ Here are some ideas to get you started:
 
 <h1 align="center"> 💻Yazılım Geliştirici</h1>
 <p align="center">
-<a href="https://github.com/berkcangumusisik">
+<a href="https://github.com/ccodex/ccodex">
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=berkcangumusisik&show_icons=true&theme=react&include_all_commits=true&count_private=true"/> 
  <img height="110em" src="https://user-images.githubusercontent.com/74311713/129813126-5c620ff2-cc3b-47a2-b419-974708ceb5fe.png"/>
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkcangumusisik&layout=compact&langs_count=16&theme=react"/>
