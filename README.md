@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ### Ben Kimim
 - :computer:Dokuz Eylül Üniversitesi Hukuk Fakültesi 4. sınıf öğrencisiyim. 
-- :computer:YetGen Core Python liderliği ve Python eğitmenliği yapmaktayım.
+- :computer:YetGen Core Python eğitimi katılımcısıyım.
 - :computer:Data Sciencist olmak için çabalıyorum. 
 - :computer:Kendimi her alanda geliştirmeye çalışıyorum. 
 - 📫 Bana ulaşmak isterseniz **_** adresini kullanabilirsiniz. 
@@ -32,9 +32,9 @@ Here are some ideas to get you started:
 ***motivasyon ve idol yazısı***
 
 <p align="center">
-  <img src= "https://gpvc.arturio.dev/berkcangumusisik" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •  
-  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/berkcangumusisik?label=Followers&style=social"> •   
-  <img src="https://img.shields.io/github/stars/berkcangumusisik?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
+  <img src= "https://gpvc.arturio.dev/ccodex" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •  
+  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/ccodex?label=Followers&style=social"> •   
+  <img src="https://img.shields.io/github/stars/ccodexlabel=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
 </p>
 
 <h1 align="center"> 💻Yazılım Geliştirici</h1>
