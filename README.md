@@ -1,7 +1,3 @@
-[link](https://okyazilim.com){:target="_blank"}
-
-
-
 ### Herkese Merhaba 👋
 ### Hi Everyone 👋
 
