@@ -23,11 +23,7 @@ Here are some ideas to get you started:
 - :computer:Dokuz Eylül Üniversitesi Hukuk Fakültesi 4. sınıf öğrencisiyim. 
 - :computer:YetGen Core Python eğitimi katılımcısıyım.
 - :computer:Data Sciencist olmak için çabalıyorum. 
-- :computer:Kendimi her alanda geliştirmeye çalışıyorum. 
-- 📫 Bana ulaşmak isterseniz **_** adresini kullanabilirsiniz. 
 
-***:computer:	DON'T REPEAT YOURSELF(KENDİNİ TEKRAR ETME)***
-<br>
 
 ***motivasyon ve idol yazısı***
 
@@ -47,31 +43,7 @@ Here are some ideas to get you started:
 </p>
 <div align = "center">
  
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=berkcangumusisik&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
- 
- [![ github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=berkcangumusisik&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</div>
-
-
-
-
- <h2 align="center">Sosyal Medya Hesaplarım </h2>
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/berkcan-gumusisik/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/berkcangumusisik)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@gumusisikberkcan)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@TeknolojiSepeti)
-
-
 <h2 align="center">Dil & Framework</h2>
-
-![My Skills](https://skillicons.dev/icons?i=bootstrap,cs,css,dart,dotnet,flutter,html,java,js,php,py)
-
-
-<h2 align="center">Database</h2>
-
-![My Skills](https://skillicons.dev/icons?i=mysql,postgres)
-<img src="https://user-images.githubusercontent.com/75336900/214643444-15a6b822-2439-45e0-8cfb-d74c95f1dfc6.png" height=50>
 
 <h2 align="center">Kullandığım IDE Çeşitleri</h2>
 
