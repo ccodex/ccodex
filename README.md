@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ### Ben Kimim
 - :computer:Dokuz Eylül Üniversitesi Hukuk Fakültesi 4. sınıf öğrencisiyim. 
-- :computer:YetGen Core Python eğitimi katılımcısıyım.
-- :computer:Data Sciencist olmak için çabalıyorum. 
+- :computer:YetGen Core Python eğitimi mezunuyum.
+- :computer:Veri Bilimci olmak için çabalıyorum. 
 
 
